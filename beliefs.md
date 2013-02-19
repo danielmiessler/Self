@@ -1,5 +1,5 @@
 Beliefs
-----
+====
 
 This file will track my beliefs over time.
 
