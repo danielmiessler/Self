@@ -3,7 +3,9 @@ Books
 
 This file will track my books over time.
 
-## Classics
+## To Read
+
+### Classics
 
 * Manufacturing Consent
 * Camus, the Plague
@@ -25,3 +27,17 @@ This file will track my books over time.
 * WILLIAM GIBSON
 * PETTER WATTS: Blindsight
 * Neil Gamon
+
+### Science Fiction
+
+
+### Fantasy
+
+
+### Non-fiction
+
+
+## Favorites
+
+* Ender's Game
+
