@@ -5,7 +5,7 @@ This is a project where I will capture knowledge from the content I consume, whe
 
 ## Problem and Purpose
 
-The goal is to master the problem of long-term benefit from knowledge, i.e. it really sucks to spend time consuming information only to not be able to recall what you got from it months or years later.
+The goal is to master the problem of long-term benefit from knowledge, i.e. it really sucks to spend time consuming information only to not be able to recall what you got from it weeks, months, or years later.
 
 ## Approach
 
